@@ -1,0 +1,396 @@
+13:46:58.806000 == Info: Expire in 0 ms for 6 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 1 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 1 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 1 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 0 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 1 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 1 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 1 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 1 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 1 ms for 1 (transfer 0x78cfe8)
+13:46:58.806000 == Info: Expire in 1 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 3 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 3 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 3 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 3 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 3 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 3 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 4 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 4 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 2 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 4 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 4 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 4 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 5 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 5 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 4 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 5 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 5 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 4 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 6 ms for 1 (transfer 0x78cfe8)
+13:46:58.821000 == Info: Expire in 6 ms for 1 (transfer 0x78cfe8)
+13:46:58.837000 == Info: Expire in 7 ms for 1 (transfer 0x78cfe8)
+13:46:58.837000 == Info:   Trying 93.184.216.34...
+13:46:58.837000 == Info: TCP_NODELAY set
+13:46:58.837000 == Info: Expire in 200 ms for 4 (transfer 0x78cfe8)
+13:46:59.087000 == Info: Connected to example.com (93.184.216.34) port 443 (#0)
+13:46:59.149000 == Info: ALPN, offering h2
+13:46:59.149000 == Info: ALPN, offering http/1.1
+13:46:59.211000 == Info: successfully set certificate verify locations:
+13:46:59.211000 == Info:   CAfile: C:\curl-7.64.0-win32-mingw\bin\curl-ca-bundle.crt
+  CApath: none
+13:46:59.211000 => Send SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.211000 == Info: TLSv1.3 (OUT), TLS handshake, Client hello (1):
+13:46:59.211000 => Send SSL data, 512 bytes (0x200)
+0000: .......].$z../....S.!.kiyS "....yN9.. b.......5.Q.LZ*..la...>.
+0040: ..,.....>.......,.0.........+./...$.(.k.#.'.g.....9.....3.....=.
+0080: <.5./.....u.........example.com........................3t.......
+00c0: ..h2.http/1.1.........1.....0...................................
+0100: ..............+........-.....3.&.$... ........#........)..b..K$.
+0140: ..t.y...........................................................
+0180: ................................................................
+01c0: ................................................................
+13:46:59.492000 <= Recv SSL data, 5 bytes (0x5)
+0000: ....X
+13:46:59.492000 == Info: TLSv1.3 (IN), TLS handshake, Server hello (2):
+13:46:59.492000 <= Recv SSL data, 88 bytes (0x58)
+0000: ...T...!.t..a......e......z..^......3. b.......5.Q.LZ*..la...>.
+0040: ..,..........+.....3....
+13:46:59.492000 => Send SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.492000 == Info: TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):
+13:46:59.492000 => Send SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.492000 => Send SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.492000 == Info: TLSv1.3 (OUT), TLS handshake, Client hello (1):
+13:46:59.492000 => Send SSL data, 512 bytes (0x200)
+0000: .......].$z../....S.!.kiyS "....yN9.. b.......5.Q.LZ*..la...>.
+0040: ..,.....>.......,.0.........+./...$.(.k.#.'.g.....9.....3.....=.
+0080: <.5./.....u.........example.com........................3t.......
+00c0: ..h2.http/1.1.........1.....0...................................
+0100: ..............+........-.....3.G.E...A...F.hs..j.D....E[..@L....
+0140: ...w..d..H.....Bun....cb9.q.f.....e.V{..........................
+0180: ................................................................
+01c0: ................................................................
+13:46:59.492000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.664000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.664000 == Info: TLSv1.3 (IN), TLS handshake, Server hello (2):
+13:46:59.664000 <= Recv SSL data, 155 bytes (0x9b)
+0000: .......B,."...M}D..d.....t.4_.g....... b.......5.Q.LZ*..la...>.
+0040: ..,........O.+.....3.E...A.b?.Y+......,.]7+...{.....-[.w...F8U.p
+0080: }...Y.....w..!oF6&.^)7.S+g.
+13:46:59.664000 <= Recv SSL data, 5 bytes (0x5)
+0000: ....$
+13:46:59.664000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.664000 == Info: TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):
+13:46:59.664000 <= Recv SSL data, 19 bytes (0x13)
+0000: .................h2
+13:46:59.664000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.664000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.664000 == Info: TLSv1.3 (IN), TLS handshake, Certificate (11):
+13:46:59.664000 <= Recv SSL data, 4006 bytes (0xfa6)
+0000: ..........D0..@0..(.........x.H...M.+.k`8.0...*.H........0M1.0..
+0040: .U....US1.0...U....DigiCert Inc1'0%..U....DigiCert SHA2 Secure S
+0080: erver CA0...181128000000Z..201202120000Z0..1.0...U....US1.0...U.
+00c0: ...California1.0...U....Los Angeles1<0:..U...3Internet Corporati
+0100: on for Assigned Names and Numbers1.0...U....Technology1.0...U...
+0140: .www.example.org0.."0...*.H.............0...........t.. r.e..Z]J
+0180: .:.f..)+.......q..B....v1u.'.MPju.{S^'....`:..E.kE3\... ..`..LE.
+01c0: ...>w....e4.".t..B..!...Dtm.....`.q...cA..4{$IF.....H......E....
+0200: ....q.(.X3n..:.jr`..Y.c.zIB{.?......~......P.u... ...ml7.(L.?|.
+0240: ....fkSS.....m..d.........-h..?....!d-.i+.x.we.T..........0...0.
+0280: ..U.#..0.....a..1a./(..F8.,....0...U......f.b.......6.v....m..0.
+02c0: ...U...z0x..www.example.org..example.com..example.edu..example.n
+0300: et..example.org..www.example.com..www.example.edu..www.example.n
+0340: et0...U...........0...U.%..0...+.........+.......0k..U...d0b0/.-
+0380: .+.)http://crl3.digicert.com/ssca-sha2-g6.crl0/.-.+.)http://crl4
+03c0: .digicert.com/ssca-sha2-g6.crl0L..U. .E0C07..`.H...l..0*0(..+...
+0400: ......https://www.digicert.com/CPS0...g.....0|..+........p0n0$..
+0440: +.....0...http://ocsp.digicert.com0F..+.....0..:http://cacerts.d
+0480: igicert.com/DigiCertSHA2SecureServerCA.crt0...U.......0.0....+.
+04c0: ....y......o...k.i.w.......X......gp.<5.......w.........g\1.F...
+0500: ..H0F.!..d..!...H.v.K.F.W'..{.;.JWBl...l.!.....0.d..L|nXSW...EO
+0540: ..F..p...BB.v..u..Y|..C._..n.V.GV6.J.`....^......g\1.......G0E. 
+0580: o.w.....c-....A.@../.f.._s.H.P..!....H.....D%.<...+.|..'{..X...
+05c0: .JN.v.oSv.1.1.....Q..w.......).....7.....g\1.......G0E.!..y.C...
+0600: ..O...z....D;.....}..c).-. MwZ.I.J.h..a... .1....q.[.V.=,r.0...*
+0640: .H.............sp..@A.jC.x.{UH..k.......x...)...i....x........Yz
+0680: q..n.....-..=U.3....5..jhfL.V!.[.H..5!.].u.zF,"'.o.:.......&s.].
+06c0: 5.j.'...tt.7..;..0.....u!....g.0..S.M............X........._....
+0700: ]...]../.X....b{.....irc.e........ Q..?a@.H.k8.....wJ..=6$O....p
+0740: ..'..*.u............0...0..|...........n.u..C.rK...0...*.H......
+0780: ..0a1.0...U....US1.0...U....DigiCert Inc1.0...U....www.digicert.
+07c0: com1 0...U....DigiCert Global Root CA0...130308120000Z..23030812
+0800: 0000Z0M1.0...U....US1.0...U....DigiCert Inc1'0%..U....DigiCert S
+0840: HA2 Secure Server CA0.."0...*.H.............0..........X.M..0..5
+0880: [n<...,\....qC.d%.....M.f..sn..6.d.7...A.......sM.3.....S.+..uH-
+08c0: .V7{.12.......]K.GF.*....y.....j.;......eN....z..\~U1..9..../..j
+0900: ..._.WtS;5....D.........k).D.KX.m.K...s...H..Eu..71....T.;..?9^.
+0940: ..\~...A..EfG..e...).N.......r.0......w..[(W......EX.........Z0.
+0980: .V0...U.......0.......0...U...........04..+........(0&0$..+.....
+09c0: 0...http://ocsp.digicert.com0{..U...t0r07.5.3.1http://crl3.digic
+0a00: ert.com/DigiCertGlobalRootCA.crl07.5.3.1http://crl4.digicert.com
+0a40: /DigiCertGlobalRootCA.crl0=..U. .60402..U. .0*0(..+.........http
+0a80: s://www.digicert.com/CPS0...U........a..1a./(..F8.,....0...U.#..
+0ac0: 0.....P5V.L.f........=.U0...*.H.............#>.K.1B..~B\.D.i.h.]
+0b00: K..!lK.m......S...*e.9O...n\..$&.........MJ..B.x....m.!.S6`Lv..8
+0b40: ..Q......M'd...>q.H..3m..........\L@.....q..G.....7B. ..n.....}.
+0b80: Y....o-...._&.,.~.7...9......4..!h..s..2.8%.U....h...A4.|.P..:..
+0bc0: .......X%..w.-n.R..t..I..;.4(.x.......m..\2......0...0..........
+0c00: .;.V.BF..uj.Y..J0...*.H........0a1.0...U....US1.0...U....DigiCer
+0c40: t Inc1.0...U....www.digicert.com1 0...U....DigiCert Global Root 
+0c80: CA0...061110000000Z..311110000000Z0a1.0...U....US1.0...U....Digi
+0cc0: Cert Inc1.0...U....www.digicert.com1 0...U....DigiCert Global Ro
+0d00: ot CA0.."0...*.H.............0.........;..r.....W.P...w........[
+0d40: .. ....N0.S.C.i.W..."...@..........;qF..f...v'..{...}..H.....z.9
+0d80: .eJ].......(.tzx.Y.hn\#2K.N..Zm.p.w........D.X2.u.....G.'j..3.
+0dc0: I.`.._.:....JL}>.O_lv^.K7...".m....j.....d..[).2......B...A2....
+0e00: .....X?...I(.p.1......L.N...J=^.....'......c0a0...U...........0
+0e40: ...U.......0....0...U........P5V.L.f........=.U0...U.#..0.....P5
+0e80: V.L.f........=.U0...*.H...............7.H.....D.OR......yy..$..K
+0ec0: +..-.......X..m.zt..)....p...L.....p........c...`....[.....S..c.
+0f00: ?...f.bf..nA..-..wJ..X.+Y.@#.-(.E>yT.&...H.7...y`......n.D.8/I..
+0f40: E>*.6S.:P.....WIla!....x<,:.k..........8l..l..d.w%W0..$.....G|..
+0f80: $..0.-...E.P............4_..<.....m...
+13:46:59.664000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.664000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.664000 == Info: TLSv1.3 (IN), TLS handshake, CERT verify (15):
+13:46:59.664000 <= Recv SSL data, 264 bytes (0x108)
+0000: .........6.....'.5.!.\8p!7..9n!.A....R....u..c. ...W..a#...;...z
+0040: ..D..S.......-n..b......fSY.xD.......B.U. f..k..zm.)...._GK...]
+0080: .q..'g.w>.IC..."$..i*e....A.....b( )./..D.....'..9$x%....&..`..Q
+00c0: .1....v.y}e.kN....~.Q.my..I.7[#..}........n....M...].....?.e. D}
+0100: ..9.Q.2=
+13:46:59.664000 <= Recv SSL data, 5 bytes (0x5)
+0000: ....E
+13:46:59.664000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.664000 == Info: TLSv1.3 (IN), TLS handshake, Finished (20):
+13:46:59.664000 <= Recv SSL data, 52 bytes (0x34)
+0000: ...0...k.73.E....,..c$..0%-...ixdP.6...v....O....ud
+13:46:59.664000 => Send SSL data, 5 bytes (0x5)
+0000: ....E
+13:46:59.664000 => Send SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.664000 == Info: TLSv1.3 (OUT), TLS handshake, Finished (20):
+13:46:59.664000 => Send SSL data, 52 bytes (0x34)
+0000: ...0r..s.....L..8.3=W[.cAy*.'...!......P#....kd.]..j
+13:46:59.664000 == Info: SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+13:46:59.664000 == Info: ALPN, server accepted to use h2
+13:46:59.664000 == Info: Server certificate:
+13:46:59.664000 == Info:  subject: C=US; ST=California; L=Los Angeles; O=Internet Corporation for Assigned Names and Numbers; OU=Technology; CN=www.example.org
+13:46:59.664000 == Info:  start date: Nov 28 00:00:00 2018 GMT
+13:46:59.664000 == Info:  expire date: Dec  2 12:00:00 2020 GMT
+13:46:59.664000 == Info:  subjectAltName: host "example.com" matched cert's "example.com"
+13:46:59.664000 == Info:  issuer: C=US; O=DigiCert Inc; CN=DigiCert SHA2 Secure Server CA
+13:46:59.664000 == Info:  SSL certificate verify ok.
+13:46:59.664000 == Info: Using HTTP2, server supports multi-use
+13:46:59.664000 == Info: Connection state changed (HTTP/2 confirmed)
+13:46:59.664000 == Info: Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+13:46:59.664000 => Send SSL data, 5 bytes (0x5)
+0000: ....)
+13:46:59.664000 => Send SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.664000 => Send SSL data, 5 bytes (0x5)
+0000: ....,
+13:46:59.664000 => Send SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.664000 => Send SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.664000 => Send SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.664000 == Info: Using Stream ID: 1 (easy handle 0x78cfe8)
+13:46:59.664000 => Send SSL data, 5 bytes (0x5)
+0000: ....6
+13:46:59.664000 => Send SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.664000 => Send header, 73 bytes (0x49)
+0000: GET / HTTP/2
+000e: Host: example.com
+0021: User-Agent: curl/7.64.0
+003a: Accept: */*
+0047: 
+13:46:59.835000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.835000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.835000 == Info: TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+13:46:59.835000 <= Recv SSL data, 249 bytes (0xf9)
+0000: ....... L.. .............Q.N.q.R.,[le..9..jx|.B....z..y-..=.3!.V
+0040: .;4q./.z.4J...<F&...:.u^D.y...2..........=.'..-..........._.m-..
+0080: ...GJ..c....G.M).............Y..?...#.|B..)K.!.R..]..."l;."..~.F
+00c0: ..P....o.]%..3U....Jo2.... .B.D...<9h..k&a7.....8.K&t...
+13:46:59.835000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.835000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.835000 == Info: TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+13:46:59.835000 <= Recv SSL data, 249 bytes (0xf9)
+0000: ....... .................Q.N.q.R.,[le....L....JK<e.6...G..x.'...
+0040: ......h..O*S"......4OW.....^.5x.G.vT..j....0O....o.C..J...R.U"..
+0080: ..x..3SA.ZW4.)i..;CMv|T.7..od......./+..g.Q..7.......$wP.v|!.^H
+00c0: .o....;.J...;...%.!...v...O.....6.a...l:JfV.....o..._..
+13:46:59.835000 == Info: old SSL session ID is stale, removing
+13:46:59.835000 <= Recv SSL data, 5 bytes (0x5)
+0000: ....8
+13:46:59.835000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.835000 == Info: Connection state changed (MAX_CONCURRENT_STREAMS == 100)!
+13:46:59.835000 => Send SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.835000 => Send SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.835000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.835000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.851000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.851000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.851000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.851000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.851000 <= Recv header, 13 bytes (0xd)
+0000: HTTP/2 200 
+13:46:59.851000 <= Recv header, 22 bytes (0x16)
+0000: accept-ranges: bytes
+13:46:59.851000 <= Recv header, 31 bytes (0x1f)
+0000: cache-control: max-age=604800
+13:46:59.851000 <= Recv header, 40 bytes (0x28)
+0000: content-type: text/html; charset=UTF-8
+13:46:59.851000 <= Recv header, 37 bytes (0x25)
+0000: date: Sun, 24 Feb 2019 08:46:59 GMT
+13:46:59.851000 <= Recv header, 20 bytes (0x14)
+0000: etag: "1541025663"
+13:46:59.851000 <= Recv header, 40 bytes (0x28)
+0000: expires: Sun, 03 Mar 2019 08:46:59 GMT
+13:46:59.851000 <= Recv header, 46 bytes (0x2e)
+0000: last-modified: Fri, 09 Aug 2013 23:54:35 GMT
+13:46:59.851000 <= Recv header, 24 bytes (0x18)
+0000: server: ECS (dcb/7F3A)
+13:46:59.851000 <= Recv header, 23 bytes (0x17)
+0000: vary: Accept-Encoding
+13:46:59.851000 <= Recv header, 14 bytes (0xe)
+0000: x-cache: HIT
+13:46:59.851000 <= Recv header, 22 bytes (0x16)
+0000: content-length: 1270
+13:46:59.851000 <= Recv header, 2 bytes (0x2)
+0000: 
+13:46:59.851000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.851000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.851000 <= Recv SSL data, 5 bytes (0x5)
+0000: .....
+13:46:59.851000 <= Recv SSL data, 1 bytes (0x1)
+0000: .
+13:46:59.851000 <= Recv data, 1270 bytes (0x4f6)
+0000: <!doctype html>.<html>.<head>.    <title>Example Domain</title>.
+0040: .    <meta charset="utf-8" />.    <meta http-equiv="Content-type
+0080: " content="text/html; charset=utf-8" />.    <meta name="viewport
+00c0: " content="width=device-width, initial-scale=1" />.    <style ty
+0100: pe="text/css">.    body {.        background-color: #f0f0f2;.   
+0140:      margin: 0;.        padding: 0;.        font-family: "Open S
+0180: ans", "Helvetica Neue", Helvetica, Arial, sans-serif;.        . 
+01c0:    }.    div {.        width: 600px;.        margin: 5em auto;. 
+0200:        padding: 50px;.        background-color: #fff;.        bo
+0240: rder-radius: 1em;.    }.    a:link, a:visited {.        color: #
+0280: 38488f;.        text-decoration: none;.    }.    @media (max-wid
+02c0: th: 700px) {.        body {.            background-color: #fff;.
+0300:         }.        div {.            width: auto;.            mar
+0340: gin: 0 auto;.            border-radius: 0;.            padding: 
+0380: 1em;.        }.    }.    </style>    .</head>..<body>.<div>.    
+03c0: <h1>Example Domain</h1>.    <p>This domain is established to be 
+0400: used for illustrative examples in documents. You may use this.  
+0440:   domain in examples without prior coordination or asking for pe
+0480: rmission.</p>.    <p><a href="http://www.iana.org/domains/exampl
+04c0: e">More information...</a></p>.</div>.</body>.</html>.
+13:46:59.851000 == Info: Connection #0 to host example.com left intact
